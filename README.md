@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Dhruv Vashist.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=20>, I'm Dhruv Vashist!
+
+...
 
 <!--
 **DvbyDt/DvbyDt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A software engineer who just loves problem solving be it in code or in real life and specialises in Full Stack Web Development. 
+
+Just trying to learn something new everyday. I'm a slow learner but I learn. 
+
+I just love <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/320/soccer-ball_26bd.png" width="25"> botth playing and wathcing the game. (although not very good at it but I try🤭!!!!).
+
+
