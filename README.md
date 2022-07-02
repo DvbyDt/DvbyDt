@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dvashist19@gmail.com**
 
-- ⚡ Fun fact **I love to play football (although not very good at it 🙈) and have watched Harry Potter almost 70 times 😅)**
+- ⚡ Fun fact **I love to play football (although not very good at it 🙈) and have watched Harry Potter almost 70 times 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
