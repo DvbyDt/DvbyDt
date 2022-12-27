@@ -5,12 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvbydt&label=Profile%20views&color=0e75b6&style=flat" alt="dvbydt" /> </p>
 
+- 📝 I regularly write articles on [https://dvbydt.hashnode.dev/](https://dvbydt.hashnode.dev/)
+
 - 📫 How to reach me **dvashist19@gmail.com**
 
 - ⚡ Fun fact **I love to play football (although not very good at it 🙈) and have watched Harry Potter almost 70 times 😅**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+  <a href="https://dvbydt.hashnode.dev/execution-context-in-javascript">Execution Context In JavaScript</a><br/>
+  <a href="https://dvbydt.hashnode.dev/hoisting-in-javascript">Hoisting In Javascript</a><br/>
+  <a href="https://dvbydt.hashnode.dev/closures-in-js">Closures In Javascript</a><br/>
+<!-- BLOG-POST-LIST:END -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://hashnode.com/@dvbydt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dvbydt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-vashist-627405155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-vashist-627405155/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dvbydt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dvbydt" height="30" width="40" /></a>
 </p>
