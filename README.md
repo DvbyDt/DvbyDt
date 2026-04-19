@@ -103,7 +103,7 @@ Focus   : Scalable Systems | AI Integration | Clean Code
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dvbydt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"/>
+<img src="https://trophy.benkou.dev/?username=dvbydt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"/>
 
 </div>
 
