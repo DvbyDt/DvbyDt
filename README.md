@@ -10,10 +10,6 @@
 
 <br/>
 
-<!-- BADGE ROW -->
-<img src="https://komarev.com/ghpvc/?username=dvbydt&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/dvbydt?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&label=FOLLOWERS"/>
-
 </div>
 
 ---
