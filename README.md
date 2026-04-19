@@ -83,15 +83,13 @@ Focus   : Scalable Systems | AI Integration | Clean Code
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 3D Contribution Galaxy
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DvbyDt/DvbyDt/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DvbyDt/DvbyDt/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/DvbyDt/DvbyDt/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<a href="https://github.com/DvbyDt">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</a>
 
 </div>
 
