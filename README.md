@@ -46,23 +46,27 @@ Focus   : Scalable Systems | AI Integration | Clean Code
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=cpp,java,python,js,cs&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,java,python,js,ts,cs&theme=dark)](https://skillicons.dev)
 
 **Backend & APIs**
 
-[![](https://skillicons.dev/icons?i=nodejs,dotnet,fastapi&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi,spring&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![](https://skillicons.dev/icons?i=react,html,css,vite&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 **AI / ML**
 
-[![](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
 **Databases & Cloud**
 
-[![](https://skillicons.dev/icons?i=mysql,azure,git,github&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,azure&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![](https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -88,7 +92,7 @@ Focus   : Scalable Systems | AI Integration | Clean Code
 <div align="center">
 
 <a href="https://github.com/DvbyDt">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DvbyDt/DvbyDt/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </a>
 
 </div>
@@ -99,7 +103,7 @@ Focus   : Scalable Systems | AI Integration | Clean Code
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dvbydt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dvbydt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2"/>
 
 </div>
 
