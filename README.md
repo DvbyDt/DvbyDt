@@ -1,93 +1,151 @@
-# Hi 👋, I'm Dhruv Vashist
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;System+Design+Enthusiast;Building+Scalable+Intelligent+Systems)
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhruv%20Vashist&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=56&descAlign=50" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dvbydt&label=Profile%20Views&color=0A66C2&style=for-the-badge)
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=65&lines=Hi%2C+I'm+Dhruv+Vashist+%F0%9F%91%8B;Software+%26+AI%2FML+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%8E%A8;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9A%A1" alt="Typing SVG"/>
+</a>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- BADGE ROW -->
+<img src="https://komarev.com/ghpvc/?username=dvbydt&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/dvbydt?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github&label=FOLLOWERS"/>
 
-- Software Engineer with strong foundations in DSA & system design  
-- Experience building scalable backend systems & full-stack applications  
-- Focused on AI/ML integration and intelligent system architecture  
-- Passionate about clean code, performance optimization & real-world impact  
-
-**Technical writing** → [Hashnode](https://dvbydt.hashnode.dev/)  
-**Email** → dvashist19@gmail.com  
-**Fun fact** → ⚽ Football | 🧙‍♂️ Harry Potter marathoner  
-
----
-
-## ⚡ Core Competencies
-
-### 💻 Languages
-`C++` `Java` `Python` `JavaScript` `C#`
-
-### 🏗️ Backend Engineering
-`Node.js` `.NET` `FastAPI` `REST APIs`  
-Scalable architecture • API design • Performance optimization
-
-### 🎨 Frontend
-`React` `HTML5` `CSS3` `Vite`
-
-### 🧠 AI / ML
-`PyTorch` `Transformers` `Stable Diffusion`  
-Model inference • Prompt engineering • AI integration
-
-### 🗄️ Databases
-`MySQL` `SQL Server`
-
-### ☁️ Cloud & DevOps
-`Azure` `Git` `GitHub`
+</div>
 
 ---
 
-## 🏆 Featured Projects
+## 🌌 About Me
 
-- 🚀 **Scalable Full Stack Application** – Full-stack with authentication, REST APIs, responsive UI  
-- 🧠 **AI-powered System** – LLM + Diffusion integration  
-- ⚡ **High-performance Backend API** – Optimized throughput and latency  
-- 📊 **DSA / Algorithm Project** – Problem solving & data structures  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```yaml
+Name    : Dhruv Vashist
+Role    : Software Engineer | AI/ML | Full Stack
+Email   : dvashist19@gmail.com
+Blog    : dvbydt.hashnode.dev
+Fun     : Football  +  Harry Potter marathoner
+Focus   : Scalable Systems | AI Integration | Clean Code
+```
+
+- Building **scalable backend systems** & full-stack applications
+- Integrating **AI/ML** into real-world intelligent systems
+- Passionate about **system design** & performance optimization
+- Technical writer on **[Hashnode](https://dvbydt.hashnode.dev/)**
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+[![](https://skillicons.dev/icons?i=cpp,java,python,js,cs&theme=dark)](https://skillicons.dev)
+
+**Backend & APIs**
+
+[![](https://skillicons.dev/icons?i=nodejs,dotnet,fastapi&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![](https://skillicons.dev/icons?i=react,html,css,vite&theme=dark)](https://skillicons.dev)
+
+**AI / ML**
+
+[![](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+
+**Databases & Cloud**
+
+[![](https://skillicons.dev/icons?i=mysql,azure,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvbydt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)  
+<div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dvbydt&theme=tokyonight&hide_border=true&background=0D1117)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvbydt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvbydt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvbydt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)  
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dvbydt&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dvbydt&theme=tokyo-night&bg_color=0D1117&hide_border=true)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DvbyDt/DvbyDt/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DvbyDt/DvbyDt/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DvbyDt/DvbyDt/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ---
 
-## 🏅 Achievements & Trophies
+## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dvbydt&theme=tokyonight&no-frame=true&margin-w=10&column=6)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dvbydt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvbydt&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
 ## ✍️ Latest Blog Posts
 
-- 🔹 [Execution Context in JavaScript](https://dvbydt.hashnode.dev/execution-context-in-javascript)  
-- 🔹 [Hoisting in JavaScript](https://dvbydt.hashnode.dev/hoisting-in-javascript)  
-- 🔹 [Closures in JavaScript](https://dvbydt.hashnode.dev/closures-in-js)  
+<!-- BLOG-POST-LIST:START -->
+- [Execution Context in JavaScript](https://dvbydt.hashnode.dev/execution-context-in-javascript)
+- [Hoisting in JavaScript](https://dvbydt.hashnode.dev/hoisting-in-javascript)
+- [Closures in JavaScript](https://dvbydt.hashnode.dev/closures-in-js)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-vashist-627405155/)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@dvbydt)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dvbydt)  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Vashist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-vashist-627405155/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@dvbydt)
+[![LeetCode](https://img.shields.io/badge/LeetCode-dvbydt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dvbydt)
+[![Email](https://img.shields.io/badge/Gmail-dvashist19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvashist19@gmail.com)
+
+</div>
 
 ---
 
-> *“Designing scalable systems today. Engineering intelligent systems for tomorrow.”*
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
