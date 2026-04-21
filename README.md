@@ -23,14 +23,14 @@ Name    : Dhruv Vashist
 Role    : Software Engineer | AI/ML | Full Stack
 Email   : dvashist19@gmail.com
 Blog    : dvbydt.hashnode.dev
-Fun     : Football  +  Harry Potter marathoner
+Fun     : Football ⚽ + Harry Potter marathons (yes, all 8, yes, every time)
 Focus   : Scalable Systems | AI Integration | Clean Code
 ```
 
-- Building **scalable backend systems** & full-stack applications
-- Integrating **AI/ML** into real-world intelligent systems
-- Passionate about **system design** & performance optimization
-- Technical writer on **[Hashnode](https://dvbydt.hashnode.dev/)**
+- Crafting **scalable backend systems** & full-stack applications that don't crumble at 3 AM
+- Shipping **AI/ML** integrations that actually escape the Jupyter notebook
+- Obsessed with **system design** & squeezing every last millisecond out of performance
+- Turning caffeine into articles as a technical writer on **[Hashnode](https://dvbydt.hashnode.dev/)**
 
 <br clear="both"/>
 
@@ -126,6 +126,8 @@ Focus   : Scalable Systems | AI Integration | Clean Code
 ---
 
 ## 🤝 Let's Connect
+
+> Whether it's a cool project, a wild idea, or just a tech chat — my DMs are always open.
 
 <div align="center">
 
